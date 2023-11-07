@@ -1,4 +1,4 @@
-"Hello 👋 I'm Giriprasath S, Founder of Nediveil Technologies, Proficient in Project Management and web Development
+<h3>"Hello 👋 I'm Giriprasath S, Founder of Nediveil Technologies, Proficient in Project Management and web Development
 
 🌐 Web Project Expertise:
 Successfully delivered two web projects, showcasing adeptness in web development, coding, and design. Proficient in crafting user-friendly interfaces and optimizing functionality.
@@ -20,4 +20,4 @@ With a solid foundation in web development, visionary leadership, and a keen eye
 
 Feel free to reach out to me directly or visit me at giriprasath@nediveil.in
 
-Let's make a positive impact together!!
+Let's make a positive impact together!!</h3>
