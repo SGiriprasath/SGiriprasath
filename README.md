@@ -20,6 +20,6 @@ Consistently met project objectives, delivering high-quality solutions on-time a
 With a solid foundation in web development, visionary leadership, and a keen eye for project management, I am well-equipped to drive projects to success, meeting both technical and strategic goals."
 
 
-Feel free to reach out to me directly or visit me at giriprasath@nediveil.in
+Feel free to reach out to me directly or visit me at giriprasathsks@gmail.com
 
 Let's make a positive impact together!!
